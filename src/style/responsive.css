@@ -1,0 +1,248 @@
+@media (min-width:576px) {
+    .modal-dialog {
+        max-width: 678px;
+        margin: 1.75rem auto;
+    }
+}
+
+@media (max-width:576px) {
+    #login-page form {
+        padding: 0 8%;
+    }
+    #login-page form h3 {
+        font-size: 28px;
+        line-height: 36px;
+    }
+    #signup-page form .form-btn {
+        width: 220px;
+    }
+    .signup-verification-col .wrapper {
+        display: block;
+    }
+    .signup-verification-col .wrapper .option {
+        margin: 22px 0px;
+        padding:0;
+    }
+    .role-wrapper .role-col {
+        width:100%;
+    }
+    .skill-range-slider {
+        width:100%;
+    }
+    
+    .enter-hard-skills {
+        padding: 0 15px;
+    }
+    .upload-cv-col {
+        padding: 0px 5%;
+    }
+    #enhanced-profile button.next {
+        font-size: 25px;
+            padding: 12px 22px;
+    }
+    #enhanced-profile .next:before {
+        left: -110px;
+    }
+    #enhanced-profile .next:after {
+            right: -110px;
+    }
+    .upload-your-video h3 {
+        font-size: 30px;
+        line-height: 44px;
+        margin-top: 30px;
+    }
+    .dashboard-header .col-12 {
+        width: 50%;
+        max-width: 50%;
+    }
+    .mircroshoft-heading {
+        margin-top: 60px;
+    }
+    
+    .eagle-man-col img {
+            z-index: -1;
+            width: 282px;
+    height: auto;
+    }
+    .fx-profile-card {
+            background: white;
+    }
+    
+}
+
+@media (min-width:576px) and (max-width:767px) {
+     .upload-your-video h3 {
+        padding:0;
+        font-size:45px;
+        line-height: 53px;
+    }
+    .eagle-man-col img {
+        width: 220px;
+        height: auto;
+        bottom: 15px;
+    }
+}
+
+
+@media (max-width:767px) {
+    h1 {
+        font-size: 42px;
+        line-height: 50px;
+        letter-spacing: -3px;
+    }
+    .discover-main-screen-cnt h6 {
+        font-size: 36px;
+        line-height: 47px;
+        margin-bottom: 32px;
+    }
+    p {
+        font-size: 15px;
+        line-height: 24px;
+    }
+    .discover-personality-top-cnt p {
+        margin-top: 15px;
+    }  
+    .discover-personality-top-cnt {
+        padding-top: 15px;
+    }
+    #msform nav .nav-tabs .nav-link {
+            padding: 10px 40px;
+    }
+    #msform fieldset .form-card div#nav-tabContent {
+        padding: 15px;
+        margin-top: 40px;
+    }
+    .progress {
+            width: 280px;
+    }
+    .steps {
+        font-size:18px;
+        line-height: 18px;
+    }
+    .discover-personality-top-cnt h1 {
+        padding:0;
+   }
+    .discover-personality-top-cnt p {
+        padding: 0 15px;
+    }
+    
+    .login-module-heading {
+        font-size: 42px;
+        font-weight: bold;
+        line-height: 50px;
+        letter-spacing: -4px;
+        margin-bottom: 30px;
+        margin-top: 0px;
+    }
+    .tabs-btn ul li a {
+        padding: 13px 12px;
+        font-size: 15px;
+   }
+    #discover-personality-steps .modal-content .modal-body .form-card {
+        padding: 15px 15px;
+    }
+    .login-pop-cnt h3 {
+        letter-spacing: -2px;
+        font-size: 26px;
+        line-height: 34px;
+    }
+    #get-started-page h6 {
+        font-size: 32px;
+        line-height: 40px;
+        margin-top: 40px;
+    }
+    .graphics-btn {
+        margin-top: 0;
+            padding: 0 29px;
+        font-size: 30px;
+    }
+    .signup-verification-col {
+        margin-bottom: 15px;
+        padding: 0 15px;
+    }
+    #job-role-steps .form-card h3 {
+        font-weight: bold;
+        font-size: 38px;
+        line-height: 46px;
+    }
+    .role-wrapper .inputGroup label {
+        padding: 10px 8px;
+        width: 100%;
+        font-size: 15px;
+    }
+    .range-slider {
+            padding: 0 10%;
+    }
+    
+    .range-slider p {
+            font-size: 42px;
+    }
+    #skills-steps h3, #soft-skills-steps h3 {
+        font-size: 38px;
+        letter-spacing: -2px;
+        line-height: 46px;
+    }
+    
+    .skill-range-slider .slidecontainer h6 {
+        font-size: 17px;
+        line-height: 22px;
+   }
+    .skill-range-slider p {
+        font-size: 17px;
+        line-height: 23px;
+            margin-top: 10px;
+    }
+
+    #feel-suite-best h3 {
+        font-size:38px;
+        line-height: 46px;
+        letter-spacing: -2px;
+        padding:0;
+    }
+    .suite-best-wrapper .col {
+        padding: 0 5px;
+        width: 50%;
+        max-width: 50%;
+    }
+    .upload-cv-col .custom-file {
+        overflow:hidden;
+    }
+    .upload-your-video h3 {
+        padding:0;
+        
+    }
+    .payment-success h4 {
+        margin-top: 170px;
+        line-height: 42px;
+        font-size: 34px;
+        font-weight: bold;
+    }
+    .dashboard-header:before {
+        width:100%;
+    }
+
+
+}
+
+
+
+
+
+@media (min-width:768px) and (max-width:1199px) {
+    
+    .suite-best-wrapper .col {
+       width: 25%;
+        max-width:25%;
+    }
+    .upload-your-video h3 {
+        padding:0 5%;
+        font-size:45px;
+        line-height: 53px;
+    }
+    .eagle-man-col img {
+        width: 254px;
+        height: auto;
+       bottom: 14px;
+    }
+    
+}
